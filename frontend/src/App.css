@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* Apply Fira Code for headings */
+.font-fira-code {
+    font-family: 'Fira Code', monospace;
+  }
+  
+  /* Apply JetBrains Mono for body text */
+  .font-jetbrains-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* Apply Orbitron Font */
+.font-orbitron {
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  /* Apply Audiowide Font */
+  .font-audiowide {
+    font-family: 'Audiowide', sans-serif;
+  }
+  
+  /* Apply Rajdhani Font */
+  .font-rajdhani {
+    font-family: 'Rajdhani', sans-serif;
+  }
